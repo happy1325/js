@@ -211,68 +211,6 @@ CCTV-17,http://iptv.887979.xyz/itv/1000000005000265015.m3u8?cdn=ystenlive
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 
-💝江苏频道👉全网,#genre#
-江苏卫视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=jsws
-江苏卫视,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsws
-淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
-无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
-无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-大丰公共频道,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
-东台综合频道,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8?zjiangsd
-金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
-金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
-睢宁生活教育,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
-沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
-泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
-泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
-如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
-江宁新闻频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
-涟水综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
-新沂新闻频道,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
-新沂生活频道,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
-泗洪新闻综合,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
-睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
-睢宁资讯频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
-靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
-靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
-宿豫综合频道,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8?zjiangsd
-沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
-赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
-武进新闻频道,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
-武进生活频道,https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
-高邮综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
-
-💝上海频道👉全网,#genre#
-东方卫视,http://ds.shixd.cn:5957/rtp/239.49.8.140:6000
-东方卫视,http://ds.shixd.cn:5957/rtp/239.49.1.32:6000
-上海-ICS-外语,http://iptv.887979.xyz/itv/5000000010000030951.m3u8?cdn=bestzb
-上海第一财经,http://iptv.887979.xyz/itv/5000000010000027146.m3u8?cdn=bestzb
-上海东方财经,http://iptv.887979.xyz/itv/5000000007000010003.m3u8?cdn=bestzb
-上海东方影视,http://iptv.887979.xyz/itv/5000000010000032212.m3u8?cdn=bestzb
-上海都市,http://iptv.887979.xyz/itv/5000000010000018926.m3u8?cdn=bestzb
-上海法治天地,http://iptv.887979.xyz/itv/2000000002000000014.m3u8?cdn=hnbblive
-上海哈哈炫动,http://iptv.887979.xyz/itv/5000000011000031123.m3u8?cdn=bestzb
-上海纪实人文-50-FPS,http://iptv.887979.xyz/itv/5000000004000010282.m3u8?cdn=bestzb
-上海纪实人文-HEVC,http://iptv.887979.xyz/itv/1000000005000265021.m3u8?cdn=ystenlive
-上海五星体育,http://iptv.887979.xyz/itv/5000000010000017540.m3u8?cdn=bestzb
-上海新闻综合,http://iptv.887979.xyz/itv/5000000011000031110.m3u8?cdn=bestzb
-嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-
-💝广东频道👉全网,#genre#
-广东卫视,http://ds.shixd.cn:5957/rtp/239.49.8.143:6000
-广东卫视,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=gdws
-广东卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gdws
-深圳卫视,http://ds.shixd.cn:5957/rtp/239.49.8.145:6000
-深圳卫视,http://ds.shixd.cn:5957/rtp/239.49.1.59:6000
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-
 💝港澳频道👉全网,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
