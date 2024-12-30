@@ -5,72 +5,57 @@
 CCTV-1,http://42.227.88.176:9003//hls/1/index.m3u8
 CCTV-1,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv1
 CCTV-1,http://iptv.887979.xyz/itv/5000000004000002226.m3u8?cdn=bestzb
-CCTV-1,http://iptv.887979.xyz/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV-2,http://42.227.88.176:9003//hls/2/index.m3u8
-CCTV-2,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv2
 CCTV-2,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv2
 CCTV-2,http://iptv.887979.xyz/itv/6000000001000014161.m3u8?cdn=wasusyt
 CCTV-3,http://42.227.88.176:9003//hls/3/index.m3u8
 CCTV-3,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv3
-CCTV-3,http://iptv.887979.xyz/itv/6000000001000022313.m3u8?cdn=wasusyt
-CCTV-3,http://iptv.887979.xyz/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-4,http://42.227.88.176:9003//hls/4/index.m3u8
 CCTV-4,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv4
 CCTV-4,http://iptv.887979.xyz/itv/5000000011000031102.m3u8?cdn=bestzb
-CCTV-4,http://iptv.887979.xyz/itv/1000000005000265004.m3u8?cdn=ystenlive
 CCTV-5,http://42.227.88.176:9003//hls/5/index.m3u8
 CCTV-5,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5
-CCTV-5,http://iptv.887979.xyz/itv/1000000005000025222.m3u8?cdn=ystenlive
 CCTV-5,http://iptv.887979.xyz/itv/1000000005000265005.m3u8?cdn=ystenlive
 CCTV-5+,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv5p
-CCTV-5+,http://iptv.887979.xyz/itv/6000000001000015875.m3u8?cdn=wasusyt
-CCTV-5+,http://iptv.887979.xyz/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV-5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
+CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6,http://42.227.88.176:9003//hls/6/index.m3u8
 CCTV-6,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv6
-CCTV-6,http://iptv.887979.xyz/itv/6000000001000004574.m3u8?cdn=wasusyt
-CCTV-6,http://iptv.887979.xyz/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV-6,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
 CCTV-7,http://42.227.88.176:9003//hls/7/index.m3u8
 CCTV-7,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv7
-CCTV-7,http://iptv.887979.xyz/itv/6000000001000009055.m3u8?cdn=wasusyt
-CCTV-7,http://iptv.887979.xyz/itv/1000000005000265007.m3u8?cdn=ystenlive
+CCTV-7,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
 CCTV-8,http://42.227.88.176:9003//hls/8/index.m3u8
 CCTV-8,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv8
 CCTV-8,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv8
-CCTV-8,http://iptv.887979.xyz/itv/1000000005000265008.m3u8?cdn=ystenlive
 CCTV-9,http://42.227.88.176:9003//hls/9/index.m3u8
 CCTV-9,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv9
-CCTV-9,http://iptv.887979.xyz/itv/6000000001000032162.m3u8?cdn=wasusyt
-CCTV-9,http://iptv.887979.xyz/itv/1000000005000265009.m3u8?cdn=ystenlive
+CCTV-9,http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw4260577431_-1084507862/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6
 CCTV-10,http://42.227.88.176:9003//hls/10/index.m3u8
 CCTV-10,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv10
-CCTV-10,http://iptv.887979.xyz/itv/5000000004000012827.m3u8?cdn=bestzb
 CCTV-10,http://iptv.887979.xyz/itv/1000000005000265010.m3u8?cdn=ystenlive
 CCTV-11,http://42.227.88.176:9003//hls/11/index.m3u8
 CCTV-11,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv11
-CCTV-11,http://iptv.887979.xyz/itv/5000000011000031106.m3u8?cdn=bestzb
-CCTV-11,http://iptv.887979.xyz/itv/1000000005000265011.m3u8?cdn=ystenlive
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-12,http://42.227.88.176:9003//hls/12/index.m3u8
 CCTV-12,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv12
-CCTV-12,http://iptv.887979.xyz/itv/6000000001000022586.m3u8?cdn=wasusyt
-CCTV-12,http://iptv.887979.xyz/itv/1000000005000265012.m3u8?cdn=ystenlive
+CCTV-12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
 CCTV-13,http://42.227.88.176:9003//hls/13/index.m3u8
 CCTV-13,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv13
 CCTV-13,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv13
-CCTV-13,http://iptv.887979.xyz/itv/5000000011000031108.m3u8?cdn=bestzb
 CCTV-14,http://42.227.88.176:9003//hls/14/index.m3u8
 CCTV-14,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv14
-CCTV-14,http://iptv.887979.xyz/itv/5000000004000006673.m3u8?cdn=bestzb
-CCTV-14,http://iptv.887979.xyz/itv/1000000005000265013.m3u8?cdn=ystenlive
+CCTV-14,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
 CCTV-15,http://42.227.88.176:9003//hls/15/index.m3u8
 CCTV-15,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv15
-CCTV-15,http://iptv.887979.xyz/itv/5000000011000031109.m3u8?cdn=bestzb
-CCTV-15,http://iptv.887979.xyz/itv/1000000005000265014.m3u8?cdn=ystenlive
-CCTV-16,http://iptv.887979.xyz/itv/1000000006000233002.m3u8?cdn=ystenlive
-CCTV-16,http://iptv.887979.xyz/itv/5000000008000023254.m3u8?cdn=bestzb
+CCTV-15,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
+CCTV-16,http://112.102.217.173:9003//hls/29/index.m3u8
+CCTV-16,http://m.951688.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV-17,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv17
 CCTV-17,http://150.158.112.123/公众号~玉玉软件库//mg.php?id=cctv17
-CCTV-17,http://iptv.887979.xyz/itv/1000000005000265015.m3u8?cdn=ystenlive
+CCTV-17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 💝卫视频道👉全网,#genre#
 厦门卫视,http://42.227.88.176:9003//hls/62/index.m3u8
@@ -412,8 +397,8 @@ iHOT-爱悬疑,http://iptv.887979.xyz/itv/6000000006000050630.m3u8?cdn=wasusyt
 iHOT-爱幼教,http://iptv.887979.xyz/itv/6000000006000180630.m3u8?cdn=wasusyt
 iHOT-爱院线,http://iptv.887979.xyz/itv/6000000006000030630.m3u8?cdn=wasusyt
 家庭影院,http://42.227.88.176:9003//hls/65/index.m3u8
-家庭影院,http://kxrj.site:12581/665/mg9.php?id=chcjt
-军事大片,http://kxrj.site:12581/665/mg9.php?id=jsdp
+家庭影院,http://kxrj.site:1258/699/mg9.php?id=chcjt
+军事大片,http://kxrj.site:1258/699/mg9.php?id=jsdp
 求索动物,http://iptv.887979.xyz/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索纪录,http://iptv.887979.xyz/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://iptv.887979.xyz/itv/6000000002000032344.m3u8?cdn=wasusyt
@@ -456,37 +441,37 @@ CCTV+5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 
 💝牌麻频道👉全网,#genre#
-JJ斗地主,http://kxrj.site:12581/665/hy.php?id=14079954
+JJ斗地主,http://kxrj.site:1258/699/hy.php?id=14079954
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-麻将竞技君,http://kxrj.site:12581/665/hy.php?id=29839772
-四川麻将联赛,http://kxrj.site:12581/665/hy.php?id=29851941
+麻将竞技君,http://kxrj.site:1258/699/hy.php?id=29839772
+四川麻将联赛,http://kxrj.site:1258/699/hy.php?id=29851941
 
 💝游戏频道👉全网,#genre#
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 
 💝轮播频道👉全网,#genre#
-周星驰,http://kxrj.site:12581/665/hy.php?id=11342412
+周星驰,http://kxrj.site:1258/699/hy.php?id=11342412
 周星驰,http://cdn.jdshipin.com:8880/huya.php?id=11342412
 周星驰,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 林正英,http://cdn.jdshipin.com:8880/huya.php?id=11342421
 林正英,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-李连杰,http://kxrj.site:12581/665/hy.php?id=11342390
+李连杰,http://kxrj.site:1258/699/hy.php?id=11342390
 李连杰,http://dns.yiandrive.com:16813/huya/11342390
 李连杰,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11342390
-甄子丹,http://kxrj.site:12581/665/hy.php?id=11352935
+甄子丹,http://kxrj.site:1258/699/hy.php?id=11352935
 甄子丹,http://182.40.120.216/test-txdwk.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
-刘德华,http://kxrj.site:12581/665/hy.php?id=11342424
+刘德华,http://kxrj.site:1258/699/hy.php?id=11342424
 刘德华,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-邱淑贞,http://kxrj.site:12581/665/hy.php?id=11352949
+邱淑贞,http://kxrj.site:1258/699/hy.php?id=11352949
 邱淑贞,http://182.40.120.213/test-txdwk.flv.huya.com/src/1423787843-1423787843-6115122222127382528-2847699142-10057-A-0-1.m3u8
 洪金宝,http://182.40.120.216/test-txdwk.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
 王晶,http://cdn.jdshipin.com:8880/huya.php?id=11602058
 王晶,http://182.40.120.194/test-txdwk.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
-古天乐,http://kxrj.site:12581/665/hy.php?id=11336571
+古天乐,http://kxrj.site:1258/699/hy.php?id=11336571
 古天乐,http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150751-1239543150751-11135001227991973888-2479086424958-10057-A-0-1.m3u8
-梁家辉,http://kxrj.site:12581/665/hy.php?id=11342429
+梁家辉,http://kxrj.site:1258/699/hy.php?id=11342429
 梁家辉,http://182.40.120.216/test-txdwk.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8
 成龙,http://cdn.jdshipin.com:8880/huya.php?id=11342386
 成龙,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
@@ -500,24 +485,24 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 任达华,http://dns.yiandrive.com:16813/huya/11352883
 任达华,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11352883
 黄渤,http://cdn.jdshipin.com:8880/huya.php?id=11352876
-五福星,http://kxrj.site:12581/665/hy.php?id=11282233
+五福星,http://kxrj.site:1258/699/hy.php?id=11282233
 五福星,http://182.40.120.171/test-txdwk.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
 孙红雷,http://182.40.120.229/test-txdwk.flv.huya.com/src/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.m3u8
 周海媚,http://182.40.120.241/test-txdwk.flv.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.m3u8
-许冠英合集,http://kxrj.site:12581/665/hy.php?id=11601972
-赌片,http://kxrj.site:12581/665/hy.php?id=11342399
-帮派,http://kxrj.site:12581/665/hy.php?id=11336719
-科幻动作,http://kxrj.site:12581/665/hy.php?id=11352964
-国产喜剧,http://kxrj.site:12581/665/hy.php?id=11602044
-古墓系列,http://kxrj.site:12581/665/hy.php?id=11352913
+许冠英合集,http://kxrj.site:1258/699/hy.php?id=11601972
+赌片,http://kxrj.site:1258/699/hy.php?id=11342399
+帮派,http://kxrj.site:1258/699/hy.php?id=11336719
+科幻动作,http://kxrj.site:1258/699/hy.php?id=11352964
+国产喜剧,http://kxrj.site:1258/699/hy.php?id=11602044
+古墓系列,http://kxrj.site:1258/699/hy.php?id=11352913
 古墓系列,http://182.40.120.230/test-txdwk.flv.huya.com/src/1099531752747-1099531752747-86436092277948416-2199063628950-10057-A-0-1.m3u8
 盗墓系列,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11342415
 盗墓系列,,http://dns.yiandrive.com:16813/huya/11342415
-灾难电影,http://kxrj.site:12581/665/hy.php?id=11352871
-港片,http://kxrj.site:12581/665/hy.php?id=11602043
+灾难电影,http://kxrj.site:1258/699/hy.php?id=11352871
+港片,http://kxrj.site:1258/699/hy.php?id=11602043
 港片,http://dns.yiandrive.com:16813/huya/11602043
 港片,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11602043
-灾难片,http://kxrj.site:12581/665/hy.php?id=11602075
+灾难片,http://kxrj.site:1258/699/hy.php?id=11602075
 奇幻片,http://8.138.90.107/公众号【睡眼迷离的猫】/douyu.php?id=218859
 恐怖片,http://dns.yiandrive.com:16813/douyu/1165374
 恐怖片,http://8.138.90.107/公众号【睡眼迷离的猫】/douyu.php?id=1165374
@@ -525,59 +510,59 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 童年阴影,http://8.138.90.107/公众号【睡眼迷离的猫】/douyu.php?id=2935323
 悬疑片,http://dns.yiandrive.com:16813/huya/11352962
 悬疑片,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=11352962
-香港贺岁片,http://kxrj.site:12581/665/hy.php?id=11601971
+香港贺岁片,http://kxrj.site:1258/699/hy.php?id=11601971
 香港贺岁片,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.m3u8
-贺岁合家欢剧场,http://kxrj.site:12581/665/hy.php?id=11602067
-历年贺岁档,http://kxrj.site:12581/665/hy.php?id=11601986
-李世民,http://kxrj.site:12581/665/hy.php?id=11336572
-港产搞笑,http://kxrj.site:12581/665/hy.php?id=11342423
-滇军抗战,http://kxrj.site:12581/665/hy.php?id=11342388
-经典女神,http://kxrj.site:12581/665/hy.php?id=11352909
-爱情公寓,http://kxrj.site:12581/665/hy.php?id=11336726
-士兵突击,http://kxrj.site:12581/665/hy.php?id=11342430
-玄幻剧场,http://kxrj.site:12581/665/hy.php?id=11342414
-联合抗日,http://kxrj.site:12581/665/hy.php?id=11352910
-三国演义,http://kxrj.site:12581/665/hy.php?id=11602081
-三国,http://kxrj.site:12581/665/hy.php?id=11352944
-新水浒传,http://kxrj.site:12581/665/hy.php?id=11342384
-神探狄仁杰2,http://kxrj.site:12581/665/hy.php?id=11342425
-神雕侠侣,http://kxrj.site:12581/665/hy.php?id=11352964
-笑傲江湖,http://kxrj.site:12581/665/hy.php?id=23865142
-埋堆堆布衣神相,http://kxrj.site:12581/665/hy.php?id=23865036
-纪晓岚,http://kxrj.site:12581/665/hy.php?id=11342396
-雍正皇帝,http://kxrj.site:12581/665/hy.php?id=11342439
-经典港剧笑嘻嘻,http://kxrj.site:12581/665/hy.php?id=11352965
-电影_强森,http://kxrj.site:12581/665/hy.php?id=21059581
-电影_怪兽,http://kxrj.site:12581/665/hy.php?id=21059577
-电影_救援,http://kxrj.site:12581/665/hy.php?id=21059594
-电影_盗墓,http://kxrj.site:12581/665/hy.php?id=21059552
-电影_谍战,http://kxrj.site:12581/665/hy.php?id=21059585
-电影_梁家辉,http://kxrj.site:12581/665/hy.php?id=11342429
-电影_斯坦森,http://kxrj.site:12581/665/hy.php?id=21059588
-电影_小鬼头,http://kxrj.site:12581/665/hy.php?id=11352963
-电影_八点档,http://kxrj.site:12581/665/hy.php?id=880261
-电影_丧尸片,http://kxrj.site:12581/665/hy.php?id=21059578
-电影_战争片,http://kxrj.site:12581/665/hy.php?id=21059574
-电影_犯罪片,http://kxrj.site:12581/665/hy.php?id=11352974
-电影_古装片,http://kxrj.site:12581/665/hy.php?id=11336590
-电影_国产悬疑,http://kxrj.site:12581/665/hy.php?id=11342395
-电影_喜乐影院,http://kxrj.site:12581/665/hy.php?id=21059580
-电影_蘑菇影厅,http://kxrj.site:12581/665/hy.php?id=11601981
-电影_死神来了,http://kxrj.site:12581/665/hy.php?id=11352903
-电影_怪兽系列,http://kxrj.site:12581/665/hy.php?id=21059554
-鹿鼎记小春版,http://kxrj.site:12581/665/hy.php?id=23865080
-陀枪师姐,http://kxrj.site:12581/665/hy.php?id=23860039
-倚天屠龙记,http://kxrj.site:12581/665/hy.php?id=23734246
-使徒行者,http://kxrj.site:12581/665/hy.php?id=23734256
-扫黄先锋,http://kxrj.site:12581/665/hy.php?id=23903196
-电影_强森,http://kxrj.site:12581/665/hy.php?id=21059581
-电影_怪兽,http://kxrj.site:12581/665/hy.php?id=21059577
-电影_救援,http://kxrj.site:12581/665/hy.php?id=21059594
-电影_盗墓,http://kxrj.site:12581/665/hy.php?id=21059552
-电影_贺岁,http://kxrj.site:12581/665/hy.php?id=11601971
-电影_玄幻,http://kxrj.site:12581/665/hy.php?id=11342414
-电影_谍战,http://kxrj.site:12581/665/hy.php?id=21059585
-电影_港片,http://kxrj.site:12581/665/hy.php?id=11602043
+贺岁合家欢剧场,http://kxrj.site:1258/699/hy.php?id=11602067
+历年贺岁档,http://kxrj.site:1258/699/hy.php?id=11601986
+李世民,http://kxrj.site:1258/699/hy.php?id=11336572
+港产搞笑,http://kxrj.site:1258/699/hy.php?id=11342423
+滇军抗战,http://kxrj.site:1258/699/hy.php?id=11342388
+经典女神,http://kxrj.site:1258/699/hy.php?id=11352909
+爱情公寓,http://kxrj.site:1258/699/hy.php?id=11336726
+士兵突击,http://kxrj.site:1258/699/hy.php?id=11342430
+玄幻剧场,http://kxrj.site:1258/699/hy.php?id=11342414
+联合抗日,http://kxrj.site:1258/699/hy.php?id=11352910
+三国演义,http://kxrj.site:1258/699/hy.php?id=11602081
+三国,http://kxrj.site:1258/699/hy.php?id=11352944
+新水浒传,http://kxrj.site:1258/699/hy.php?id=11342384
+神探狄仁杰2,http://kxrj.site:1258/699/hy.php?id=11342425
+神雕侠侣,http://kxrj.site:1258/699/hy.php?id=11352964
+笑傲江湖,http://kxrj.site:1258/699/hy.php?id=23865142
+埋堆堆布衣神相,http://kxrj.site:1258/699/hy.php?id=23865036
+纪晓岚,http://kxrj.site:1258/699/hy.php?id=11342396
+雍正皇帝,http://kxrj.site:1258/699/hy.php?id=11342439
+经典港剧笑嘻嘻,http://kxrj.site:1258/699/hy.php?id=11352965
+电影_强森,http://kxrj.site:1258/699/hy.php?id=21059581
+电影_怪兽,http://kxrj.site:1258/699/hy.php?id=21059577
+电影_救援,http://kxrj.site:1258/699/hy.php?id=21059594
+电影_盗墓,http://kxrj.site:1258/699/hy.php?id=21059552
+电影_谍战,http://kxrj.site:1258/699/hy.php?id=21059585
+电影_梁家辉,http://kxrj.site:1258/699/hy.php?id=11342429
+电影_斯坦森,http://kxrj.site:1258/699/hy.php?id=21059588
+电影_小鬼头,http://kxrj.site:1258/699/hy.php?id=11352963
+电影_八点档,http://kxrj.site:1258/699/hy.php?id=880261
+电影_丧尸片,http://kxrj.site:1258/699/hy.php?id=21059578
+电影_战争片,http://kxrj.site:1258/699/hy.php?id=21059574
+电影_犯罪片,http://kxrj.site:1258/699/hy.php?id=11352974
+电影_古装片,http://kxrj.site:1258/699/hy.php?id=11336590
+电影_国产悬疑,http://kxrj.site:1258/699/hy.php?id=11342395
+电影_喜乐影院,http://kxrj.site:1258/699/hy.php?id=21059580
+电影_蘑菇影厅,http://kxrj.site:1258/699/hy.php?id=11601981
+电影_死神来了,http://kxrj.site:1258/699/hy.php?id=11352903
+电影_怪兽系列,http://kxrj.site:1258/699/hy.php?id=21059554
+鹿鼎记小春版,http://kxrj.site:1258/699/hy.php?id=23865080
+陀枪师姐,http://kxrj.site:1258/699/hy.php?id=23860039
+倚天屠龙记,http://kxrj.site:1258/699/hy.php?id=23734246
+使徒行者,http://kxrj.site:1258/699/hy.php?id=23734256
+扫黄先锋,http://kxrj.site:1258/699/hy.php?id=23903196
+电影_强森,http://kxrj.site:1258/699/hy.php?id=21059581
+电影_怪兽,http://kxrj.site:1258/699/hy.php?id=21059577
+电影_救援,http://kxrj.site:1258/699/hy.php?id=21059594
+电影_盗墓,http://kxrj.site:1258/699/hy.php?id=21059552
+电影_贺岁,http://kxrj.site:1258/699/hy.php?id=11601971
+电影_玄幻,http://kxrj.site:1258/699/hy.php?id=11342414
+电影_谍战,http://kxrj.site:1258/699/hy.php?id=21059585
+电影_港片,http://kxrj.site:1258/699/hy.php?id=11602043
 超爽犯罪电影 九龙城寨周处除三害,http://182.40.120.241/test-txdwk.flv.huya.com/src/1099531752795-1099531752795-86436298436378624-2199063629046-10057-A-0-1.m3u8
 速肌:两个光头赛车的故事,http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.m3u8
 周星星粤语经典版~,http://182.40.120.213/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
@@ -820,56 +805,56 @@ RM 刘在石李光洙跑男,http://182.40.120.191/test-txdwk.flv.huya.com/src/12
 [offer1] 我将用毕生捍卫法律的尊严！,http://182.40.120.194/test-txdwk.flv.huya.com/src/1239543153971-1239543153971-11135015057786667008-2479086431398-10057-A-0-1.m3u8
 
 💝埋堆堆频道👉全网,#genre#
-埋堆堆 𝟙,http://kxrj.site:12581/665/hy.php?id=23740156
+埋堆堆 𝟙,http://kxrj.site:1258/699/hy.php?id=23740156
 埋堆堆 𝟙,http://dns.yiandrive.com:16813/huya/23749096
 埋堆堆 𝟙,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23749096
-埋堆堆 𝟚,http://kxrj.site:12581/665/hy.php?id=23749096
+埋堆堆 𝟚,http://kxrj.site:1258/699/hy.php?id=23749096
 埋堆堆 𝟚,http://dns.yiandrive.com:16813/huya/23735126
 埋堆堆 𝟚,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23735126
-埋堆堆 𝟛,http://kxrj.site:12581/665/hy.php?id=23735126
+埋堆堆 𝟛,http://kxrj.site:1258/699/hy.php?id=23735126
 埋堆堆 𝟛,http://dns.yiandrive.com:16813/huya/23903196
 埋堆堆 𝟛,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23903196
-埋堆堆 𝟜,http://kxrj.site:12581/665/hy.php?id=23903123
+埋堆堆 𝟜,http://kxrj.site:1258/699/hy.php?id=23903123
 埋堆堆 𝟜,http://dns.yiandrive.com:16813/huya/23740156
 埋堆堆 𝟜,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23740156
-埋堆堆 𝟝,http://kxrj.site:12581/665/hy.php?id=23734169
+埋堆堆 𝟝,http://kxrj.site:1258/699/hy.php?id=23734169
 埋堆堆 𝟝,http://dns.yiandrive.com:16813/huya/23728660
 埋堆堆 𝟝,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23728660
-埋堆堆 𝟞,http://kxrj.site:12581/665/hy.php?id=23863804
+埋堆堆 𝟞,http://kxrj.site:1258/699/hy.php?id=23863804
 埋堆堆 𝟞,http://dns.yiandrive.com:16813/huya/23865058
 埋堆堆 𝟞,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23865058
-埋堆堆 𝟟,http://kxrj.site:12581/665/hy.php?id=23865080
+埋堆堆 𝟟,http://kxrj.site:1258/699/hy.php?id=23865080
 埋堆堆 𝟟,http://dns.yiandrive.com:16813/huya/23734246
 埋堆堆 𝟟,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23734246
-埋堆堆 𝟠,http://kxrj.site:12581/665/hy.php?id=23864973
+埋堆堆 𝟠,http://kxrj.site:1258/699/hy.php?id=23864973
 埋堆堆 𝟠,http://dns.yiandrive.com:16813/huya/23749083
 埋堆堆 𝟠,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23749083
-埋堆堆 𝟡,http://kxrj.site:12581/665/hy.php?id=23903130
+埋堆堆 𝟡,http://kxrj.site:1258/699/hy.php?id=23903130
 埋堆堆 𝟡,http://dns.yiandrive.com:16813/huya/23863804
 埋堆堆 𝟡,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23863804
-埋堆堆 𝟙𝟘,http://kxrj.site:12581/665/hy.php?id=23860039
+埋堆堆 𝟙𝟘,http://kxrj.site:1258/699/hy.php?id=23860039
 埋堆堆 𝟙𝟘,http://dns.yiandrive.com:16813/huya/23865142
 埋堆堆 𝟙𝟘,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23865142
-埋堆堆 𝟙𝟙,http://kxrj.site:12581/665/hy.php?id=23903183
+埋堆堆 𝟙𝟙,http://kxrj.site:1258/699/hy.php?id=23903183
 埋堆堆 𝟙𝟙,http://dns.yiandrive.com:16813/huya/23903130
 埋堆堆 𝟙𝟙,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=23903130
-埋堆堆 𝟙𝟚,http://kxrj.site:12581/665/hy.php?id=23903196
+埋堆堆 𝟙𝟚,http://kxrj.site:1258/699/hy.php?id=23903196
 埋堆堆 𝟙𝟚,http://dns.yiandrive.com:16813/huya/29465848
 埋堆堆 𝟙𝟚,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=29465848
-埋堆堆 𝟙𝟛,http://kxrj.site:12581/665/hy.php?id=23728674
-埋堆堆 𝟙𝟜,http://kxrj.site:12581/665/hy.php?id=23865036
-埋堆堆 𝟙𝟝,http://kxrj.site:12581/665/hy.php?id=23829543
-埋堆堆 𝟙𝟞,http://kxrj.site:12581/665/hy.php?id=23865161
-埋堆堆 𝟙𝟟,http://kxrj.site:12581/665/hy.php?id=23865058
-埋堆堆 𝟙𝟠,http://kxrj.site:12581/665/hy.php?id=23824164
-埋堆堆 𝟙𝟡,http://kxrj.site:12581/665/hy.php?id=23863796
-埋堆堆 𝟚𝟘,http://kxrj.site:12581/665/hy.php?id=23734183
-埋堆堆 𝟚𝟙,http://kxrj.site:12581/665/hy.php?id=23728660
-埋堆堆 𝟚𝟚,http://kxrj.site:12581/665/hy.php?id=23865142
-埋堆堆 𝟚𝟛,http://kxrj.site:12581/665/hy.php?id=23734246
-埋堆堆 𝟚𝟜,http://kxrj.site:12581/665/hy.php?id=23865171
-埋堆堆 𝟚𝟝,http://kxrj.site:12581/665/hy.php?id=23734256
-埋堆堆 𝟚𝟞,http://kxrj.site:12581/665/hy.php?id=23749083
+埋堆堆 𝟙𝟛,http://kxrj.site:1258/699/hy.php?id=23728674
+埋堆堆 𝟙𝟜,http://kxrj.site:1258/699/hy.php?id=23865036
+埋堆堆 𝟙𝟝,http://kxrj.site:1258/699/hy.php?id=23829543
+埋堆堆 𝟙𝟞,http://kxrj.site:1258/699/hy.php?id=23865161
+埋堆堆 𝟙𝟟,http://kxrj.site:1258/699/hy.php?id=23865058
+埋堆堆 𝟙𝟠,http://kxrj.site:1258/699/hy.php?id=23824164
+埋堆堆 𝟙𝟡,http://kxrj.site:1258/699/hy.php?id=23863796
+埋堆堆 𝟚𝟘,http://kxrj.site:1258/699/hy.php?id=23734183
+埋堆堆 𝟚𝟙,http://kxrj.site:1258/699/hy.php?id=23728660
+埋堆堆 𝟚𝟚,http://kxrj.site:1258/699/hy.php?id=23865142
+埋堆堆 𝟚𝟛,http://kxrj.site:1258/699/hy.php?id=23734246
+埋堆堆 𝟚𝟜,http://kxrj.site:1258/699/hy.php?id=23865171
+埋堆堆 𝟚𝟝,http://kxrj.site:1258/699/hy.php?id=23734256
+埋堆堆 𝟚𝟞,http://kxrj.site:1258/699/hy.php?id=23749083
 
 💝MTV频道👉全网,#genre#
 歌MV33,http://vd4.bdstatic.com/mda-ickhjq8gkcxz55i1/sc/mda-ickhjq8gkcxz55i1.mp4
